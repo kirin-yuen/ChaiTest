@@ -1,0 +1,24 @@
+{
+  "name": "chai-test",
+  "version": "0.0.1",
+  "description": "this is a chai test",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kirin-yuen/ChaiTest.git"
+  },
+  "author": "kirin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kirin-yuen/ChaiTest/issues"
+  },
+  "homepage": "https://github.com/kirin-yuen/ChaiTest#readme",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5",
+    "mochawesome": "^1.3.4"
+  }
+}
